@@ -14,7 +14,7 @@ Essa SPA, construída com ReactJS, é a solução de um desafio proposto pela [R
 - [Babel](https://github.com/babel/babel)
 - [Webpack](https://github.com/webpack)
 ---
-![Preview](.github/preview.png)
+![Tela da Aplicação](https://github.com/caiocfsa/Interface-Facebook-React/blob/master/preview.png?raw=true "Tela da Aplicação")
 
 ---
 [Página do desafio](https://github.com/Rocketseat/bootcamp-gostack-desafio-04)
